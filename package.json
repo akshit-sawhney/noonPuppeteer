@@ -1,0 +1,22 @@
+{
+  "name": "noonpuppy",
+  "version": "1.0.0",
+  "description": "Pet dog of noon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeshinoda/noonPuppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeshinoda/noonPuppeteer/issues"
+  },
+  "homepage": "https://github.com/mikeshinoda/noonPuppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  }
+}
